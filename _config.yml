@@ -10,7 +10,7 @@ baseurl: "/Blackguard"
 # Build settings
 markdown: kramdown
 permalink: :categories/:title
-highlighter: pygments
+highlighter: rouge
 paginate: 3
 
 # Links
